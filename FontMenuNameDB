@@ -1,0 +1,43 @@
+#!opentype
+
+# This file must be synced to `MM/instances`.
+# Entries `l` and `m` are required if this is not a typical
+#   style-linked Regular/Bold/Italic/BoldItalic family.
+
+# [PostScriptName]
+#   f=  Preferred Family Name
+#   s=  Subfamily Name (Style Name)
+#   l=  Compatible Family Menu Name
+#   m=1,Macintosh Compatible Full Name
+
+[Tillana-Regular]
+  f=  Tillana
+  s=  Regular
+  l=  Tillana
+  m=1,Tillana
+
+[Tillana-Medium]
+  f=  Tillana
+  s=  Medium
+  l=  Tillana Medium
+  m=1,Tillana Medium
+
+[Tillana-SemiBold]
+  f=  Tillana
+  s=  SemiBold
+  l=  Tillana SemiBold
+  m=1,Tillana SemiBold
+
+[Tillana-Bold]
+  f=  Tillana
+  s=  Bold
+  l=  Tillana
+  m=1,Tillana Bold
+# Style-linked because of `l` (the same as Regular's)
+#   and `styles/Bold/fontinfo` (`IsBoldStyle true`).
+
+[Tillana-ExtraBold]
+  f=  Tillana
+  s=  ExtraBold
+  l=  Tillana ExtraBold
+  m=1,Tillana ExtraBold

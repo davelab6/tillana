@@ -1,0 +1,12 @@
+#!opentype
+
+# `FontMenuNameDB` must be synced to this file.
+# Key `IsBold` has nothing to do with style-linking.
+
+#KEYS:FamilyName	FontName	FullName	Weight	Coords	IsBold
+
+Tillana	Tillana-Regular	Tillana	Regular	(0)	0
+Tillana	Tillana-Medium	Tillana Medium	Medium	(210)	0
+Tillana	Tillana-SemiBold	Tillana SemiBold	SemiBold	(440)	0
+Tillana	Tillana-Bold	Tillana Bold	Bold	(700)	0
+Tillana	Tillana-ExtraBold	Tillana ExtraBold	ExtraBold	(1000)	0

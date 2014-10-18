@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvmvRR" format="1">
+  <advance width="0"/>
+  <unicode hex="0944"/>
+  <outline>
+    <contour>
+      <point x="-309" y="-106" type="curve"/>
+      <point x="-313" y="-140"/>
+      <point x="-281" y="-184"/>
+      <point x="-211" y="-164" type="curve"/>
+      <point x="-208" y="-170" type="line"/>
+      <point x="-243" y="-181"/>
+      <point x="-287" y="-200"/>
+      <point x="-324" y="-238" type="curve"/>
+      <point x="-326" y="-273"/>
+      <point x="-302" y="-304"/>
+      <point x="-251" y="-315" type="curve"/>
+      <point x="-187" y="-315"/>
+      <point x="-120" y="-295"/>
+      <point x="-78" y="-261" type="curve"/>
+      <point x="-74" y="-235"/>
+      <point x="-87" y="-206"/>
+      <point x="-113" y="-205" type="curve"/>
+      <point x="-154" y="-239"/>
+      <point x="-205" y="-259"/>
+      <point x="-244" y="-263" type="curve"/>
+      <point x="-254" y="-251" type="line"/>
+      <point x="-219" y="-218"/>
+      <point x="-184" y="-203"/>
+      <point x="-136" y="-187" type="curve"/>
+      <point x="-123" y="-160"/>
+      <point x="-136" y="-127"/>
+      <point x="-168" y="-118" type="curve"/>
+      <point x="-189" y="-125"/>
+      <point x="-212" y="-130"/>
+      <point x="-233" y="-134" type="curve"/>
+      <point x="-238" y="-124" type="line"/>
+      <point x="-201" y="-97"/>
+      <point x="-162" y="-82"/>
+      <point x="-111" y="-69" type="curve"/>
+      <point x="-103" y="-39"/>
+      <point x="-113" y="-20"/>
+      <point x="-152" y="-16" type="curve"/>
+      <point x="-197" y="-29"/>
+      <point x="-263" y="-59"/>
+    </contour>
+  </outline>
+</glyph>

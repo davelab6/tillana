@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvSeven" format="1">
+  <advance width="589"/>
+  <unicode hex="096D"/>
+  <outline>
+    <contour>
+      <point x="526" y="353" type="line"/>
+      <point x="483" y="338"/>
+      <point x="442" y="324"/>
+      <point x="404" y="312" type="curve"/>
+      <point x="332" y="348"/>
+      <point x="333" y="438"/>
+      <point x="387" y="476" type="curve"/>
+      <point x="417" y="484" type="line"/>
+      <point x="483" y="452"/>
+      <point x="506" y="420"/>
+      <point x="512" y="337" type="curve"/>
+      <point x="489" y="310" type="line"/>
+      <point x="503" y="287" type="line"/>
+      <point x="462" y="261" type="line"/>
+      <point x="396" y="152"/>
+      <point x="316" y="85"/>
+      <point x="213" y="57" type="curve"/>
+      <point x="71" y="221"/>
+      <point x="145" y="476"/>
+      <point x="208" y="573" type="curve"/>
+      <point x="206" y="617"/>
+      <point x="162" y="626"/>
+      <point x="112" y="603" type="curve"/>
+      <point x="21" y="435"/>
+      <point x="-3" y="128"/>
+      <point x="192" y="-4" type="curve"/>
+      <point x="377" y="0"/>
+      <point x="551" y="216"/>
+      <point x="587" y="356" type="curve"/>
+      <point x="580" y="446"/>
+      <point x="549" y="515"/>
+      <point x="441" y="547" type="curve"/>
+      <point x="375" y="540"/>
+      <point x="326" y="520"/>
+      <point x="290" y="479" type="curve"/>
+      <point x="252" y="421"/>
+      <point x="243" y="311"/>
+      <point x="386" y="251" type="curve"/>
+      <point x="439" y="274"/>
+      <point x="493" y="301"/>
+      <point x="535" y="321" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

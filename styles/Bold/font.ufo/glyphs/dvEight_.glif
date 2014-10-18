@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvEight" format="1">
+  <advance width="550"/>
+  <unicode hex="096E"/>
+  <outline>
+    <contour>
+      <point x="493" y="279" type="curve"/>
+      <point x="442" y="212"/>
+      <point x="376" y="140"/>
+      <point x="293" y="100" type="curve"/>
+      <point x="220" y="122"/>
+      <point x="180" y="173"/>
+      <point x="171" y="237" type="curve"/>
+      <point x="245" y="366"/>
+      <point x="362" y="493"/>
+      <point x="491" y="599" type="curve"/>
+      <point x="485" y="635"/>
+      <point x="472" y="654"/>
+      <point x="429" y="648" type="curve"/>
+      <point x="317" y="569"/>
+      <point x="107" y="389"/>
+      <point x="20" y="249" type="curve"/>
+      <point x="27" y="135"/>
+      <point x="148" y="4"/>
+      <point x="274" y="4" type="curve"/>
+      <point x="365" y="4"/>
+      <point x="510" y="168"/>
+      <point x="554" y="237" type="curve"/>
+      <point x="549" y="265"/>
+      <point x="538" y="277"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0122" format="1">
+  <advance width="616"/>
+  <unicode hex="0122"/>
+  <outline>
+    <contour>
+      <point x="299" y="-246" type="curve"/>
+      <point x="336" y="-211"/>
+      <point x="386" y="-147"/>
+      <point x="392" y="-88" type="curve"/>
+      <point x="378" y="-48"/>
+      <point x="336" y="-26"/>
+      <point x="298" y="-57" type="curve"/>
+      <point x="318" y="-158" type="line"/>
+      <point x="270" y="-233" type="line"/>
+      <point x="276" y="-243"/>
+      <point x="289" y="-247"/>
+    </contour>
+    <component base="G"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,171 @@
+# Created: Sat Oct 18 16:55:26 2014
+# PS Name: Tillana-Regular
+# MM Inst: None
+# exported from noApp
+
+# NOTE: The markClass declarations can be found in the file 'markclasses.fea'.
+
+lookup MARK_BASE_abvm_Ekaar {
+	@bGC_dvCHA_abvm_Ekaar = [dvCHA dvCH_VA];
+	@bGC_dvC_CH_VA_abvm_Ekaar = [dvC_CH_VA dvSH_CHA];
+	@bGC_dvDA_abvm_Ekaar = [dvDA dvD dvD_RA dvD_GA dvD_G_RA dvD_NA dvD_BHA dvDA_mvR dvDA_mUU dvDA_mU];
+	@bGC_dvDDHA_abvm_Ekaar = [dvDDHA dvDDHxA dvDDH dvDDH_RA dvTT_NA dvDDH_DDHA];
+	@bGC_dvHA_abvm_Ekaar = [dvHA dvH dvH_NNA dvHA_mU dvHA_mUU];
+	@bGC_dvH_NA_abvm_Ekaar = [dvH_NA dvH_LA];
+	@bGC_dvH_RA_abvm_Ekaar = [dvH_RA dvHA_mvR];
+	@bGC_dvKA_abvm_Ekaar = [dvKA dvKxA dvK_RA dvKx_RA];
+	@bGC_dvK_KA_abvm_Ekaar = [dvK_KA dvKx_KxA];
+	@bGC_dvL_DDHA_abvm_Ekaar = [dvL_DDHA dvSH_TTA];
+	@bGC_dvM_DA_abvm_Ekaar = [dvM_DA dvL_DA];
+	@bGC_dvNGA_abvm_Ekaar = [dvNGA dvDDA dvDDxA dvNG dvDD dvNG_RA dvDD_RA dvDD_DDA dvDD_VA];
+	@bGC_dvN_DA_abvm_Ekaar = [dvN_DA dvN_D_VA];
+	@bGC_dvN_PHA_abvm_Ekaar = [dvN_PHA dvN_PH_RA];
+	@bGC_dvPHA_abvm_Ekaar = [dvPHA dvPHxA dvPH_RA dvPHx_RA];
+	@bGC_dvPH_PHA_abvm_Ekaar = [dvPH_PHA dvPHx_PHxA];
+	@bGC_dvRA_abvm_Ekaar = [dvRA dvRxA dvR];
+	@bGC_dvSS_KA_abvm_Ekaar = [dvSS_KA dvSS_K_RA];
+	@bGC_dvTTA_abvm_Ekaar = [dvTTA dvTT dvTT_R];
+	@bGC_dvTTHA_abvm_Ekaar = [dvTTHA dvTTH];
+	@bGC_dvTTH_RA_abvm_Ekaar = [dvTTH_RA dvTT_TTHA];
+	@bGC_dvTT_RA_abvm_Ekaar = [dvTT_RA dvTT_VA];
+	@bGC_dvT_KA_abvm_Ekaar = [dvT_KA dvT_K_RA];
+	pos base @bGC_dvCHA_abvm_Ekaar <anchor 466 649> mark @MC_abvm_Ekaar;
+	pos base @bGC_dvC_CH_VA_abvm_Ekaar <anchor 826 649> mark @MC_abvm_Ekaar;
+	pos base @bGC_dvDA_abvm_Ekaar <anchor 231 649> mark @MC_abvm_Ekaar;
+	pos base @bGC_dvDDHA_abvm_Ekaar <anchor 214 649> mark @MC_abvm_Ekaar;
+	pos base @bGC_dvHA_abvm_Ekaar <anchor 252 649> mark @MC_abvm_Ekaar;
+	pos base @bGC_dvH_NA_abvm_Ekaar <anchor 272 649> mark @MC_abvm_Ekaar;
+	pos base @bGC_dvH_RA_abvm_Ekaar <anchor 262 649> mark @MC_abvm_Ekaar;
+	pos base @bGC_dvKA_abvm_Ekaar <anchor 360 649> mark @MC_abvm_Ekaar;
+	pos base @bGC_dvK_KA_abvm_Ekaar <anchor 830 649> mark @MC_abvm_Ekaar;
+	pos base @bGC_dvL_DDHA_abvm_Ekaar <anchor 524 649> mark @MC_abvm_Ekaar;
+	pos base @bGC_dvM_DA_abvm_Ekaar <anchor 492 649> mark @MC_abvm_Ekaar;
+	pos base @bGC_dvNGA_abvm_Ekaar <anchor 195 649> mark @MC_abvm_Ekaar;
+	pos base @bGC_dvN_DA_abvm_Ekaar <anchor 461 649> mark @MC_abvm_Ekaar;
+	pos base @bGC_dvN_PHA_abvm_Ekaar <anchor 675 649> mark @MC_abvm_Ekaar;
+	pos base @bGC_dvPHA_abvm_Ekaar <anchor 373 649> mark @MC_abvm_Ekaar;
+	pos base @bGC_dvPH_PHA_abvm_Ekaar <anchor 888 649> mark @MC_abvm_Ekaar;
+	pos base @bGC_dvRA_abvm_Ekaar <anchor 181 649> mark @MC_abvm_Ekaar;
+	pos base @bGC_dvSS_KA_abvm_Ekaar <anchor 580 649> mark @MC_abvm_Ekaar;
+	pos base @bGC_dvTTA_abvm_Ekaar <anchor 234 649> mark @MC_abvm_Ekaar;
+	pos base @bGC_dvTTHA_abvm_Ekaar <anchor 207 649> mark @MC_abvm_Ekaar;
+	pos base @bGC_dvTTH_RA_abvm_Ekaar <anchor 217 649> mark @MC_abvm_Ekaar;
+	pos base @bGC_dvTT_RA_abvm_Ekaar <anchor 204 649> mark @MC_abvm_Ekaar;
+	pos base @bGC_dvT_KA_abvm_Ekaar <anchor 651 649> mark @MC_abvm_Ekaar;
+	pos base dvB_DA <anchor 401 649> mark @MC_abvm_Ekaar;
+	pos base dvCH_RA <anchor 476 649> mark @MC_abvm_Ekaar;
+	pos base dvC_CHA <anchor 900 649> mark @MC_abvm_Ekaar;
+	pos base dvDD_DDHA <anchor 205 649> mark @MC_abvm_Ekaar;
+	pos base dvDD_NA <anchor 185 649> mark @MC_abvm_Ekaar;
+	pos base dvD_BA <anchor 301 649> mark @MC_abvm_Ekaar;
+	pos base dvD_B_RA <anchor 321 649> mark @MC_abvm_Ekaar;
+	pos base dvD_DA <anchor 221 649> mark @MC_abvm_Ekaar;
+	pos base dvD_DHA <anchor 371 649> mark @MC_abvm_Ekaar;
+	pos base dvD_GHA <anchor 391 649> mark @MC_abvm_Ekaar;
+	pos base dvD_VA <anchor 331 649> mark @MC_abvm_Ekaar;
+	pos base dvG_DA <anchor 481 649> mark @MC_abvm_Ekaar;
+	pos base dvH_VA <anchor 292 649> mark @MC_abvm_Ekaar;
+	pos base dvJ_DA <anchor 591 649> mark @MC_abvm_Ekaar;
+	pos base dvJ_DDA <anchor 565 649> mark @MC_abvm_Ekaar;
+	pos base dvJ_KA <anchor 767 649> mark @MC_abvm_Ekaar;
+	pos base dvJ_TTA <anchor 544 649> mark @MC_abvm_Ekaar;
+	pos base dvK_DA <anchor 601 649> mark @MC_abvm_Ekaar;
+	pos base dvK_PHA <anchor 847 649> mark @MC_abvm_Ekaar;
+	pos base dvK_S_DDA <anchor 1055 649> mark @MC_abvm_Ekaar;
+	pos base dvK_S_TTA <anchor 1064 649> mark @MC_abvm_Ekaar;
+	pos base dvK_TTA <anchor 564 649> mark @MC_abvm_Ekaar;
+	pos base dvKx_PHA <anchor 849 649> mark @MC_abvm_Ekaar;
+	pos base dvKx_PHxA <anchor 848 649> mark @MC_abvm_Ekaar;
+	pos base dvLLA <anchor 578 649> mark @MC_abvm_Ekaar;
+	pos base dvL_DDA <anchor 505 649> mark @MC_abvm_Ekaar;
+	pos base dvL_D_RA <anchor 491 649> mark @MC_abvm_Ekaar;
+	pos base dvL_HA <anchor 572 649> mark @MC_abvm_Ekaar;
+	pos base dvL_KA <anchor 736 649> mark @MC_abvm_Ekaar;
+	pos base dvL_PHA <anchor 775 649> mark @MC_abvm_Ekaar;
+	pos base dvL_TTA <anchor 504 649> mark @MC_abvm_Ekaar;
+	pos base dvL_TTHA <anchor 547 649> mark @MC_abvm_Ekaar;
+	pos base dvL_V_DDA <anchor 785 649> mark @MC_abvm_Ekaar;
+	pos base dvM_HA <anchor 512 649> mark @MC_abvm_Ekaar;
+	pos base dvNN_DDA <anchor 555 649> mark @MC_abvm_Ekaar;
+	pos base dvNN_DDHA <anchor 595 649> mark @MC_abvm_Ekaar;
+	pos base dvNN_TTA <anchor 604 649> mark @MC_abvm_Ekaar;
+	pos base dvNN_TTHA <anchor 587 649> mark @MC_abvm_Ekaar;
+	pos base dvNY_CHA <anchor 852 649> mark @MC_abvm_Ekaar;
+	pos base dvN_CHA <anchor 750 649> mark @MC_abvm_Ekaar;
+	pos base dvN_DDA <anchor 485 649> mark @MC_abvm_Ekaar;
+	pos base dvN_D_RA <anchor 451 649> mark @MC_abvm_Ekaar;
+	pos base dvN_HA <anchor 552 649> mark @MC_abvm_Ekaar;
+	pos base dvN_KA <anchor 657 649> mark @MC_abvm_Ekaar;
+	pos base dvN_S_TTA <anchor 915 649> mark @MC_abvm_Ekaar;
+	pos base dvN_TTA <anchor 444 649> mark @MC_abvm_Ekaar;
+	pos base dvPH_TTA <anchor 634 649> mark @MC_abvm_Ekaar;
+	pos base dvP_PHA <anchor 632 649> mark @MC_abvm_Ekaar;
+	pos base dvP_TTA <anchor 364 649> mark @MC_abvm_Ekaar;
+	pos base dvP_TTHA <anchor 397 649> mark @MC_abvm_Ekaar;
+	pos base dvSH_KA <anchor 748 649> mark @MC_abvm_Ekaar;
+	pos base dvSH_KxA <anchor 688 649> mark @MC_abvm_Ekaar;
+	pos base dvSS_PHA <anchor 618 649> mark @MC_abvm_Ekaar;
+	pos base dvSS_TTA <anchor 344 649> mark @MC_abvm_Ekaar;
+	pos base dvSS_TTHA <anchor 377 649> mark @MC_abvm_Ekaar;
+	pos base dvSS_TTH_RA <anchor 387 649> mark @MC_abvm_Ekaar;
+	pos base dvSS_TT_RA <anchor 354 649> mark @MC_abvm_Ekaar;
+	pos base dvSS_TT_VA <anchor 414 649> mark @MC_abvm_Ekaar;
+	pos base dvS_DA <anchor 531 649> mark @MC_abvm_Ekaar;
+	pos base dvS_KA <anchor 772 649> mark @MC_abvm_Ekaar;
+	pos base dvS_K_RA <anchor 773 649> mark @MC_abvm_Ekaar;
+	pos base dvS_PHA <anchor 794 649> mark @MC_abvm_Ekaar;
+	pos base dvS_TTA <anchor 534 649> mark @MC_abvm_Ekaar;
+	pos base dvTTH_TTHA <anchor 227 649> mark @MC_abvm_Ekaar;
+	pos base dvTT_TTA <anchor 224 649> mark @MC_abvm_Ekaar;
+	pos base dvT_PHA <anchor 664 649> mark @MC_abvm_Ekaar;
+} MARK_BASE_abvm_Ekaar;
+
+
+# lookup MARK_BASE_abvm_Reph_alt {
+# 	pos base dvmI <anchor 473 671> mark @MC_abvm_Reph_alt;
+# 	pos base dvmI.a02 <anchor 520 673> mark @MC_abvm_Reph_alt;
+# 	pos base dvmI.a03 <anchor 568 675> mark @MC_abvm_Reph_alt;
+# 	pos base dvmI.a04 <anchor 616 678> mark @MC_abvm_Reph_alt;
+# 	pos base dvmI.a05 <anchor 663 680> mark @MC_abvm_Reph_alt;
+# 	pos base dvmI.a06 <anchor 710 682> mark @MC_abvm_Reph_alt;
+# 	pos base dvmI.a07 <anchor 757 685> mark @MC_abvm_Reph_alt;
+# 	pos base dvmI.a08 <anchor 804 687> mark @MC_abvm_Reph_alt;
+# 	pos base dvmI.a09 <anchor 853 689> mark @MC_abvm_Reph_alt;
+# 	pos base dvmI.a10 <anchor 899 691> mark @MC_abvm_Reph_alt;
+# 	pos base dvmI.a11 <anchor 947 693> mark @MC_abvm_Reph_alt;
+# 	pos base dvmI.a12 <anchor 994 695> mark @MC_abvm_Reph_alt;
+# 	pos base dvmI.a13 <anchor 1042 699> mark @MC_abvm_Reph_alt;
+# 	pos base dvmI.a14 <anchor 1094 672> mark @MC_abvm_Reph_alt;
+# 	pos base dvmI.a15 <anchor 1143 674> mark @MC_abvm_Reph_alt;
+# 	pos base dvmI.a16 <anchor 1192 676> mark @MC_abvm_Reph_alt;
+# 	pos base dvmI.a17 <anchor 1241 678> mark @MC_abvm_Reph_alt;
+# 	pos base dvmI.a18 <anchor 1290 680> mark @MC_abvm_Reph_alt;
+# 	pos base dvmI.a19 <anchor 1338 682> mark @MC_abvm_Reph_alt;
+# 	pos base dvmI.a20 <anchor 1387 684> mark @MC_abvm_Reph_alt;
+# } MARK_BASE_abvm_Reph_alt;
+
+
+lookup MARK_BASE_abvm_Reph_alt {
+	pos base dvmI <anchor 473 671> mark @MC_abvm_Reph_alt;
+	pos base @mI_BASES_02 <anchor 314 673> mark @MC_abvm_Reph_alt;
+	pos base @mI_BASES_03 <anchor 362 675> mark @MC_abvm_Reph_alt;
+	pos base @mI_BASES_04 <anchor 410 678> mark @MC_abvm_Reph_alt;
+	pos base @mI_BASES_05 <anchor 457 680> mark @MC_abvm_Reph_alt;
+	pos base @mI_BASES_06 <anchor 504 682> mark @MC_abvm_Reph_alt;
+	pos base @mI_BASES_07 <anchor 551 685> mark @MC_abvm_Reph_alt;
+	pos base @mI_BASES_08 <anchor 598 687> mark @MC_abvm_Reph_alt;
+	pos base @mI_BASES_09 <anchor 647 689> mark @MC_abvm_Reph_alt;
+	pos base @mI_BASES_10 <anchor 693 691> mark @MC_abvm_Reph_alt;
+	pos base @mI_BASES_11 <anchor 741 693> mark @MC_abvm_Reph_alt;
+	pos base @mI_BASES_12 <anchor 788 695> mark @MC_abvm_Reph_alt;
+	pos base @mI_BASES_13 <anchor 836 699> mark @MC_abvm_Reph_alt;
+	pos base @mI_BASES_14 <anchor 888 672> mark @MC_abvm_Reph_alt;
+	pos base @mI_BASES_15 <anchor 937 674> mark @MC_abvm_Reph_alt;
+	pos base @mI_BASES_16 <anchor 986 676> mark @MC_abvm_Reph_alt;
+	pos base @mI_BASES_17 <anchor 1035 678> mark @MC_abvm_Reph_alt;
+	pos base @mI_BASES_18 <anchor 1084 680> mark @MC_abvm_Reph_alt;
+	pos base @mI_BASES_19 <anchor 1132 682> mark @MC_abvm_Reph_alt;
+	pos base @mI_BASES_20 <anchor 1181 684> mark @MC_abvm_Reph_alt;
+} MARK_BASE_abvm_Reph_alt;
+
+

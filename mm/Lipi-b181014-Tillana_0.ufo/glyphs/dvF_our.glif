@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvFour" format="1">
+  <advance width="529"/>
+  <unicode hex="096A"/>
+  <outline>
+    <contour>
+      <point x="77" y="602" type="curve"/>
+      <point x="223" y="498"/>
+      <point x="336" y="364"/>
+      <point x="328" y="123" type="curve"/>
+      <point x="304" y="83"/>
+      <point x="278" y="64"/>
+      <point x="228" y="47" type="curve"/>
+      <point x="185" y="79"/>
+      <point x="157" y="101"/>
+      <point x="147" y="157" type="curve"/>
+      <point x="242" y="345"/>
+      <point x="407" y="492"/>
+      <point x="580" y="622" type="curve"/>
+      <point x="582" y="642"/>
+      <point x="578" y="659"/>
+      <point x="548" y="656" type="curve"/>
+      <point x="382" y="538"/>
+      <point x="194" y="380"/>
+      <point x="80" y="159" type="curve"/>
+      <point x="88" y="84"/>
+      <point x="146" y="26"/>
+      <point x="229" y="0" type="curve"/>
+      <point x="307" y="15"/>
+      <point x="360" y="56"/>
+      <point x="391" y="114" type="curve"/>
+      <point x="393" y="376"/>
+      <point x="275" y="549"/>
+      <point x="126" y="654" type="curve"/>
+      <point x="105" y="650"/>
+      <point x="90" y="638"/>
+    </contour>
+  </outline>
+</glyph>
